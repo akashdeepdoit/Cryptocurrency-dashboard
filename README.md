@@ -1,5 +1,5 @@
 This represents the crypto wallet Dashboard and its functionalities.
-preview:https://crypto-dashboard-whoayushh.netlify.app/
+preview: https://cryptocurrency-akashdeep.netlify.app/
 
 
 
